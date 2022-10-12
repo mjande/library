@@ -1,0 +1,1 @@
+A small practice project for [The Odin Project](theodinproject.com) to review methods for manipulating the DOM using Javascript and to practice with prototypes and object constructors. [Project Specs](https://www.theodinproject.com/lessons/javascript-library)

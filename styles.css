@@ -1,0 +1,46 @@
+body {
+  background-color: #606c38;
+}
+
+h1 {
+  text-align: center;
+}
+
+.books {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  margin: 2rem;
+}
+
+.book {
+  border: solid 1px;
+  border-radius: 10%;
+  box-shadow: 5px 5px #283618;
+  background-color: #fefae0; 
+  width: 250px;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.new-book-form {
+  padding: 1rem;
+  margin: 2rem;
+  max-width: 300px;
+  border: solid 1px;
+  box-shadow: 5px 5px #283618;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  gap: 1rem;
+  background-color: #dda15e;
+}
+
+.book button {
+  align-self: end;
+}
+
+.hidden {
+  display: none;
+}
